@@ -69,6 +69,11 @@ div.header ul li a {
   color: #5d1d69;
 }
 
+div.header ul li a:hover {
+  background: #5d1d69;
+  color: rgb(206, 206, 10);
+}
+
 /* main */
 
 div.img {
